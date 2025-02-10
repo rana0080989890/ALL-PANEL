@@ -1,1 +1,17 @@
 
+{
+    "users": [
+        {
+            "username": "1",
+            "password": "1", 
+            "hwid": "",
+            "expiry": "2025-12-31"
+        },
+        {
+            "username": "user2",
+            "password": "6cf615d5f5eac453b6e1f5c6f9c6b0dff2ebc6b7b94605aa2e8e6631b7c12c98",
+            "hwid": "",
+            "expiry": "2025-12-31"
+        }
+    ]
+}
